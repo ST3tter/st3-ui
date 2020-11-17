@@ -122,7 +122,7 @@ export default ({ backgroundColor, label, ...props }) => {
     // </Button>
 
     <Button>
-      <span className={styles.button_border}></span>
+      <span></span>
       <span></span>
       <span></span>
       <span></span>

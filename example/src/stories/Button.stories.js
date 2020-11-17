@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Button } from 'st3-ui';
-import 'st3-ui/dist/index.css';
 
 export default {
   title: 'Example/Button',
